@@ -1,0 +1,67 @@
+*{
+    margin: auto;
+    
+}
+body{
+
+   background :#18978F ;
+}
+.container{
+    background: #E9DAC1;
+    height: auto;
+    width: 100vh;
+    border-radius: 10px;
+}
+.subcontainer{
+    background: #E9DAC1;
+    margin: 10px;
+}
+.container h1{
+   
+    color: black;
+    /* margin: 2px 2px 2px 2px; */
+    padding: 3% 40%;
+}
+.name{
+    padding: 2% 2% 0%;
+}
+.cont{
+    padding:  2%  1%;
+    margin: 0% 1%;
+}
+.email{
+    padding: 2% 2% 0%;
+}
+.intro{
+
+    font-size: 18px;
+
+} 
+.obj{
+    margin: 2% 0%;
+    padding: 0% 2% 0%;
+    background-color: #f7a15a;
+    font-size: 19px;
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+   
+}
+.objmain{
+    padding: 2% 2% 0%;
+    
+   
+}
+.PerD ul li{ margin: 20%;
+padding: 20%;
+}
+.date{
+   /* margin-bottom: 20%; */
+   padding: 10% 2% 5%;
+}
+.btmname{
+    position: relative;
+    bottom: 54px;
+    left: 80%;
+}
+.perD{
+    font-family:sans-serif;
+}
